@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0066-plus-one) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0027-remove-element) |
 ## Sorting
 |  |
