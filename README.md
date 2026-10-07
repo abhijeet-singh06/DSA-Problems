@@ -49,4 +49,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0476-number-complement](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
