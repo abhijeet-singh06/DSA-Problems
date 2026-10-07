@@ -45,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0164-maximum-gap) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0201-bitwise-and-of-numbers-range) |
 <!---LeetCode Topics End-->
