@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0066-plus-one) |
+| [0263-ugly-number](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0263-ugly-number) |
 ## Binary Search
 |  |
 | ------- |
