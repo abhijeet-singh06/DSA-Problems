@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0164-maximum-gap) |
+| [1089-duplicate-zeros](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1089-duplicate-zeros) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0027-remove-element) |
+| [1089-duplicate-zeros](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1089-duplicate-zeros) |
 | [2396-strictly-palindromic-number](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
 |  |
