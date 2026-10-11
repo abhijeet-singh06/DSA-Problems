@@ -84,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0342-power-of-four) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
