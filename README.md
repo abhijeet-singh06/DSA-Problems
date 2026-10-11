@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0476-number-complement](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0476-number-complement) |
 ## Brainteaser
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
