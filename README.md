@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0066-plus-one](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0066-plus-one) |
 | [0263-ugly-number](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0263-ugly-number) |
+| [0342-power-of-four](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0367-valid-perfect-square) |
 | [2396-strictly-palindromic-number](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2396-strictly-palindromic-number) |
 ## Binary Search
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0190-reverse-bits](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0342-power-of-four](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0476-number-complement) |
 ## Brainteaser
 |  |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0190-reverse-bits) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
