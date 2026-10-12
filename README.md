@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0263-ugly-number](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0367-valid-perfect-square) |
+| [1025-divisor-game](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2396-strictly-palindromic-number) |
 ## Binary Search
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Brainteaser
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2396-strictly-palindromic-number) |
 ## Interactive
 |  |
@@ -95,4 +97,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
