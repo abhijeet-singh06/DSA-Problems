@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1089-duplicate-zeros](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1089-duplicate-zeros) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0164-maximum-gap) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
 |  |
 | ------- |
