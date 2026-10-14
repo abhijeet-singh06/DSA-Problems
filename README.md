@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0367-valid-perfect-square](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0367-valid-perfect-square) |
 | [1025-divisor-game](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2396-strictly-palindromic-number) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
 |  |
