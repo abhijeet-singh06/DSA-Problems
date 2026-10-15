@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0164-maximum-gap) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1089-duplicate-zeros](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1089-duplicate-zeros) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0001-two-sum) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Math
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0162-find-peak-element) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0374-guess-number-higher-or-lower) |
 ## Two Pointers
@@ -46,12 +49,14 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0027-remove-element) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1089-duplicate-zeros](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1089-duplicate-zeros) |
 | [2396-strictly-palindromic-number](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0164-maximum-gap) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bucket Sort
 |  |
