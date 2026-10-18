@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0164-maximum-gap](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0164-maximum-gap) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1089-duplicate-zeros](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1089-duplicate-zeros) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0342-power-of-four](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0367-valid-perfect-square) |
 | [1025-divisor-game](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1025-divisor-game) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2396-strictly-palindromic-number](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2396-strictly-palindromic-number) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Binary Search
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0190-reverse-bits) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Recursion
 |  |
 | ------- |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1025-divisor-game) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Game Theory
 |  |
 | ------- |
@@ -136,4 +140,32 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
