@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0164-maximum-gap) |
+| [0189-rotate-array](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1089-duplicate-zeros](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1089-duplicate-zeros) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0367-valid-perfect-square) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1089-duplicate-zeros](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1089-duplicate-zeros) |
 | [2396-strictly-palindromic-number](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2396-strictly-palindromic-number) |
