@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2235-add-two-integers](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2396-strictly-palindromic-number) |
+| [2409-count-days-spent-together](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
@@ -186,5 +187,6 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0344-reverse-string) |
+| [2409-count-days-spent-together](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/3863-minimum-operations-to-sort-a-string) |
 <!---LeetCode Topics End-->
