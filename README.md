@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1089-duplicate-zeros](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1089-duplicate-zeros) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1089-duplicate-zeros](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1089-duplicate-zeros) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2396-strictly-palindromic-number](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
 |  |
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0344-reverse-string) |
 | [2409-count-days-spent-together](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/3863-minimum-operations-to-sort-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
