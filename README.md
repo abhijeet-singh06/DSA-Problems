@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1089-duplicate-zeros](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1089-duplicate-zeros) |
+| [1254-number-of-closed-islands](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -197,4 +199,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1254-number-of-closed-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
