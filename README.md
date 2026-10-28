@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0164-maximum-gap) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0119-pascals-triangle-ii) |
 | [1025-divisor-game](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1025-divisor-game) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
