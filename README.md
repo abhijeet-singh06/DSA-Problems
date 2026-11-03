@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0066-plus-one) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0344-reverse-string) |
 | [2409-count-days-spent-together](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2409-count-days-spent-together) |
@@ -264,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0020-valid-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
