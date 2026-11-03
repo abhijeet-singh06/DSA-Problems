@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0344-reverse-string) |
 | [2409-count-days-spent-together](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -255,4 +256,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
