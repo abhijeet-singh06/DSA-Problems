@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1089-duplicate-zeros](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1089-duplicate-zeros) |
 | [1254-number-of-closed-islands](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0374-guess-number-higher-or-lower) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1089-duplicate-zeros](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1089-duplicate-zeros) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2396-strictly-palindromic-number](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0164-maximum-gap](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0164-maximum-gap) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
