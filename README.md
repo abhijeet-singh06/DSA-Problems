@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1882-process-tasks-using-servers](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2614-prime-in-diagonal](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2614-prime-in-diagonal) |
 | [2747-count-zero-request-servers](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2235-add-two-integers](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2396-strictly-palindromic-number) |
 | [2409-count-days-spent-together](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2409-count-days-spent-together) |
+| [2614-prime-in-diagonal](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2614-prime-in-diagonal) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0037-sudoku-solver](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0037-sudoku-solver) |
 | [1254-number-of-closed-islands](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1267-count-servers-that-communicate) |
+| [2614-prime-in-diagonal](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2614-prime-in-diagonal) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -313,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1267-count-servers-that-communicate) |
+## Number Theory
+|  |
+| ------- |
+| [2614-prime-in-diagonal](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2614-prime-in-diagonal) |
 <!---LeetCode Topics End-->
