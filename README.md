@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0344-reverse-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Depth-First Search
 |  |
 | ------- |
