@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/0344-reverse-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2409-count-days-spent-together) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
