@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2396-strictly-palindromic-number](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2396-strictly-palindromic-number) |
 | [2409-count-days-spent-together](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2409-count-days-spent-together) |
 | [2614-prime-in-diagonal](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2614-prime-in-diagonal) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3886-sum-of-sortable-integers](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/3886-sum-of-sortable-integers) |
 ## Divide and Conquer
 |  |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Backtracking
@@ -357,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2614-prime-in-diagonal](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2614-prime-in-diagonal) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Ordered Set
 |  |
 | ------- |
