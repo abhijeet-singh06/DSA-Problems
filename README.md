@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2396-strictly-palindromic-number](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2396-strictly-palindromic-number) |
 | [2409-count-days-spent-together](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2409-count-days-spent-together) |
 | [2614-prime-in-diagonal](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2614-prime-in-diagonal) |
+| [3360-stone-removal-game](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/abhijeet-singh06/DSA-Problems/tree/master/3360-stone-removal-game) |
 ## Depth-First Search
 |  |
 | ------- |
